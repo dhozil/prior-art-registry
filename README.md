@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/status-live%20on%20studionet-2ea44f)
 ![Tests](https://img.shields.io/badge/tests-12%20passed-2ea44f)
 
-[Live Contract](https://explorer-studio.genlayer.com/address/0x411B9fE83601cf65A42a31B726C571aA46C4b796) ·
+[Live Contract](https://explorer-studio.genlayer.com/address/0xBaf1f3C9efC1aDd1C145788aE7529aC5dd8728CB) ·
 [Security Audit](AUDIT.md) ·
 [GenLayer Docs](https://docs.genlayer.com)
 
@@ -39,8 +39,8 @@ words: `duplicate` or `not_duplicate`.
 
 | | |
 |---|---|
-| **Contract** | [PriorArtRegistry](https://explorer-studio.genlayer.com/address/0x411B9fE83601cf65A42a31B726C571aA46C4b796) |
-| **Address** | `0x411B9fE83601cf65A42a31B726C571aA46C4b796` |
+| **Contract** | [PriorArtRegistry](https://explorer-studio.genlayer.com/address/0xBaf1f3C9efC1aDd1C145788aE7529aC5dd8728CB) |
+| **Address** | `0xBaf1f3C9efC1aDd1C145788aE7529aC5dd8728CB` |
 | **Network** | GenLayer studionet (chain `61999`) |
 | **Constructor args** | none |
 | **Deploy** | `python scripts/verify_onchain.py` (without `--address` it deploys a fresh instance and runs the 23 checks) |
