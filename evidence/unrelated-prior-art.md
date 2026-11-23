@@ -1,10 +1,11 @@
 # 2019 Rural Services Programme — final report (excerpt)
 
-## Component 5: Mobile veterinary clinic
+## Component 9: Fibre backhaul for village schools
 
-The programme funded a travelling veterinary clinic that served alpine herder
-communities on a fixed monthly route. The clinic carried a veterinarian and a
-technician, offered livestock treatment and vaccination days, and reported 3,100
-consultations over two years.
+The programme funded 41 km of fibre backhaul connecting twelve village schools to a
+regional point of presence, plus a wireless link for two hamlets that could not be
+reached by trenching.
 
-The report contains no energy, generation, storage or micro-grid component.
+The component covers network capacity, school connectivity and maintenance contracts
+only. It contains no energy generation, no storage, no livestock or veterinary
+activity, and no recurring field-service route.
