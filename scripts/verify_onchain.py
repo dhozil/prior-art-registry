@@ -112,7 +112,7 @@ class Harness:
         for attempt in range(4):
             try:
                 return self.client.wait_for_transaction_receipt(
-                    tx, status=TransactionStatus.ACCEPTED, interval=3000, retries=150
+                    tx, status=TransactionStatus.ACCEPTED, interval=5000, retries=120
                 )
             except Exception as exc:
                 last = exc
