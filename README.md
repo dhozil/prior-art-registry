@@ -43,6 +43,7 @@ words: `duplicate` or `not_duplicate`.
 | **Address** | `0x411B9fE83601cf65A42a31B726C571aA46C4b796` |
 | **Network** | GenLayer studionet (chain `61999`) |
 | **Constructor args** | none |
+| **Deploy** | `python scripts/verify_onchain.py` (without `--address` it deploys a fresh instance and runs the 23 checks) |
 | **On-chain code** | byte-identical to `contracts/prior_art_registry.py` (SHA-256 `caefa70b…98fc`) |
 
 ## The Mechanism
